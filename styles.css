@@ -1,0 +1,23 @@
+header {
+    text-align: center;
+    color:antiquewhite;
+    background-color:black;
+}
+p {
+    text-align: center;
+    color:antiquewhite;
+    text-decoration-line:underline;
+    text-decoration-style:wavy;
+}
+body {
+    background-color:blueviolet;
+    
+}
+
+image {
+     text-align: center;
+}
+footer {
+    background-color:black;
+    background-image:-moz-linear-gradient(/assets/purpleflower)
+}
